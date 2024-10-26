@@ -23,7 +23,7 @@
 
  **Takis Stamatopoulos [el20096@mail.ntua.gr](https://github.com/ntua-el20096)**  
  **Afroditi Marianthi Chlapani [el20889@mail.ntua.gr](https://github.com/aphrochl)**  
- **Kyriaki Karatzouni [el20634@mail.ntua.gr](https://github.com/ntua-el20634)**  
+ **Kyriaki (Korina) Karatzouni [el20634@mail.ntua.gr](https://github.com/ntua-el20634)**  
 
 
 ### Installation
