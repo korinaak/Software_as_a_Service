@@ -19,11 +19,12 @@
 
 
 
- 
 
- **Takis Stamatopoulos [el20096@mail.ntua.gr](https://github.com/ntua-el20096)**  
- **Afroditi Marianthi Chlapani [el20889@mail.ntua.gr](https://github.com/aphrochl)**  
- **Kyriaki (Korina) Karatzouni [el20634@mail.ntua.gr](https://github.com/ntua-el20634)**  
+- **Takis Stamatopoulos** [el20096@mail.ntua.gr](https://github.com/ntua-el20096)
+- **Afroditi Marianthi Chlapani** [el20889@mail.ntua.gr](https://github.com/aphrochl)
+- **Kyriaki (Korina) Karatzouni** [el20634@mail.ntua.gr](https://github.com/ntua-el20634)
+- **Theodora Exarchou (Δώρα Εξάρχου)** [exarchoudora@gmail.com](https://github.com/DoraExarchou)
+
 
 
 ### Installation
